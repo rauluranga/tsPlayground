@@ -19,7 +19,7 @@ Run the following command:
 install node packages:
 
 ```
-npm install
+~ npm install
 ```
 
 and deploy:
