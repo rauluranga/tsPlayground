@@ -16,7 +16,13 @@ Run the following command:
 ~ cd tsPlayground 
 ```
 
-and
+install node packages:
+
+```
+npm install
+```
+
+and deploy:
 
 ```
 ~ gulp
